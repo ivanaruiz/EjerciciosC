@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1597023112 source:c:\users\meli\desktop\progra 2020\ea1-proyecto\funciones.c
+	"funciones.h"
+
+1597023112 c:\users\meli\desktop\progra 2020\ea1-proyecto\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1596990923 source:c:\users\meli\desktop\progra 2020\ea1-proyecto\main.c
+	"main.h"
+
+1591235946 c:\users\meli\desktop\progra 2020\ea1-proyecto\main.h
+	<stdio.h>
+	"funciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586643378 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio23.vector\main.c
+	"vector.h"
+
+1586643378 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio23.vector\vector.h
+	<stdio.h>
+	<stdlib.h>
+
+1586642557 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio23.vector\funciones.c
+	"vector.h"
+

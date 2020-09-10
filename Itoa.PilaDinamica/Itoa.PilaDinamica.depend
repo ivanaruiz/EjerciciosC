@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590619358 source:c:\users\meli\desktop\progra 2020\itoa.piladinamica\main.c
+	"pila_dinamica.h"
+	"mi_itoa.h"
+
+1590618690 source:c:\users\meli\desktop\progra 2020\itoa.piladinamica\pila_dinamica.c
+	"pila_dinamica.h"
+
+1590617754 c:\users\meli\desktop\progra 2020\itoa.piladinamica\pila_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590618690 source:c:\users\meli\desktop\progra 2020\itoa.piladinamica\mi_itoa.c
+	"mi_itoa.h"
+
+1590619005 c:\users\meli\desktop\progra 2020\itoa.piladinamica\mi_itoa.h
+	"pila_dinamica.h"
+

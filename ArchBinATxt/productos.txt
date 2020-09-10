@@ -1,0 +1,6 @@
+Longitud fija:
+0001BANANAS            70.00
+0002NARANJAS           60.00
+0003MANZADAS           50.00
+0004POMELOS            60.00
+0005TOMATES            50.00

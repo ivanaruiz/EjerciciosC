@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1587351961 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio30.trazamatriz\main.c
+	"matriz.h"
+
+1587352641 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio30.trazamatriz\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1587352626 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio30.trazamatriz\funciones.c
+	"matriz.h"
+
+1587351962 source:c:\users\meli\desktop\progra 2020\ejercicio30.trazamatriz\main.c
+	"matriz.h"
+
+1587353104 c:\users\meli\desktop\progra 2020\ejercicio30.trazamatriz\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1596494733 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio30.trazamatriz\funciones.c
+	"matriz.h"
+
+1596494840 c:\users\meli\desktop\desktop\progra 2020\ejercicio30.trazamatriz\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1596494926 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio30.trazamatriz\main.c
+	"matriz.h"
+

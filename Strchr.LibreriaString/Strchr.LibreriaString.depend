@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596257316 source:c:\users\meli\desktop\desktop\progra 2020\strchr.libreriastring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

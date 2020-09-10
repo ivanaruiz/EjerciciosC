@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1595035248 source:c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\main.cpp
+	<iostream>
+	"Suma.h"
+	"Resta.h"
+	"Division.h"
+	"DivisionPorCeroException.h"
+
+1595020854 c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\suma.h
+	<string>
+	"Operador.h"
+
+1595035097 c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\operador.h
+	<string>
+
+1595020655 c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\resta.h
+	"Operador.h"
+
+1595020569 c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\division.h
+	"Operador.h"
+	"DivisionPorCeroException.h"
+
+1595019588 c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\divisionporceroexception.h
+	<exception>
+
+1595034831 source:c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\operador.cpp
+	"Operador.h"
+
+1595034856 source:c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\division.cpp
+	"Division.h"
+
+1595020148 source:c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\resta.cpp
+	"Resta.h"
+
+1595029767 source:c:\users\meli\desktop\ear3-entregable\ear3-poo_cpp_polimorfismo\suma.cpp
+	"Suma.h"
+

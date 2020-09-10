@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1587349810 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio29.matrizsumas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1596488981 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio29.matrizsumas\funciones.c
+	"matriz.h"
+
+1596488961 c:\users\meli\desktop\desktop\progra 2020\ejercicio29.matrizsumas\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1596489435 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio29.matrizsumas\main.c
+	"matriz.h"
+
+1596489431 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio29.matrizsumas\matriz.c
+	"matriz.h"
+

@@ -1,0 +1,6 @@
+Creando pers1.
+Mostrando pers1: 0-X-0-NN
+Ingresando pers1
+Mostrando pers1: 11222333-M-57-BECERRA, Maria
+Incrementando la edad de pers1: 11222333-M-57-BECERRA, Maria
+Mostrando pers1: 11222333-M-58-BECERRA, Maria

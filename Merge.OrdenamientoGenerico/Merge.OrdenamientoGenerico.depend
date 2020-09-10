@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590768271 source:c:\users\meli\desktop\progra 2020\merge.ordenamientogenerico\archivos.c
+	"archivos.h"
+
+1590728574 c:\users\meli\desktop\progra 2020\merge.ordenamientogenerico\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590768039 source:c:\users\meli\desktop\progra 2020\merge.ordenamientogenerico\main.c
+	"archivos.h"
+
+1590724607 source:c:\users\meli\desktop\progra 2020\merge.ordenamientogenerico\ordenamiento_generico.c
+	"archivos.h"
+
+1590768000 source:c:\users\meli\desktop\progra 2020\merge.ordenamientogenerico\explicacionprograma.c
+

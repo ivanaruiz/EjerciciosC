@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589155809 source:c:\users\meli\desktop\progra 2020\archivomenu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1596518334 source:c:\users\meli\desktop\desktop\progra 2020\archivomenu\main.c
+	"productos.h"
+
+1590103089 c:\users\meli\desktop\desktop\progra 2020\archivomenu\productos.h
+	<stdio.h>
+	<stdlib.h>
+
+1596518463 source:c:\users\meli\desktop\desktop\progra 2020\archivomenu\funciones.c
+	"productos.h"
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1594512966 source:c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+
+1594512942 c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1594511004 source:c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1594511075 c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\figura.h
+	"FiguraInvalidaException.h"
+
+1594513653 c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<exception>
+
+1594512241 source:c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1594520735 c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1594512863 source:c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+
+1594512343 c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1594512399 source:c:\users\meli\desktop\ea3-entregable\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1594520690 source:c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+
+1594512942 c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1594511075 c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\figura.h
+	"FiguraInvalidaException.h"
+
+1594513653 c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<exception>
+
+1594511004 source:c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1594512399 source:c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1594520735 c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1594512343 c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1594512241 source:c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1594512863 source:c:\users\meli\desktop\progra 2020\ea3-entregable\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586464536 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio13.numero primo\main.c
+	"primo.h"
+
+1586464536 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio13.numero primo\funciones.c
+	"primo.h"
+
+1586464653 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio13.numero primo\primo.h
+	<stdio.h>
+	<stdlib.h>
+
+1596048437 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio13.numero primo\main.c
+	"primo.h"
+
+1586464654 c:\users\meli\desktop\desktop\progra 2020\ejercicio13.numero primo\primo.h
+	<stdio.h>
+	<stdlib.h>
+

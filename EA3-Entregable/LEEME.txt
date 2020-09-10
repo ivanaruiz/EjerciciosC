@@ -1,0 +1,22 @@
+En este examen, el ejercicio de C, 
+que es el que dice EA3-Proyecto32
+fue de corrección correcta. 
+Sin embargo también hice una segunda versión,
+(a modo de práctica)
+la cual también es correcta.
+
+Por otro lado, el ejercicio de C++
+fue correjido como incorrecto, 
+si bien difiero de la corrección, 
+pues los profesores alegaron que la clase 
+Figura debía tener atributos definidos. 
+Yo sin embargo pensé que tranquilamente
+la clase Figura podía no tener atributos
+(base y altura) y definirlos en cada clase
+hijo. 
+Ya que si existiera la clase Circulo, 
+no debería heredar esos atributos. 
+
+De todas maneras, hice la corrección
+que se encuentra Figura CORRECCION, 
+la cual es correcta. 

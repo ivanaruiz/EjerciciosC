@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596584089 source:c:\users\meli\desktop\desktop\progra 2020\matricesvariasv3\main.c
+	"matriz.h"
+
+1596584138 c:\users\meli\desktop\desktop\progra 2020\matricesvariasv3\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1596584088 source:c:\users\meli\desktop\desktop\progra 2020\matricesvariasv3\matriz.c
+	"matriz.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1598592216 source:c:\users\meli\desktop\progra 2020\colacircular\main.c
+	"cola_circular.h"
+
+1592715576 c:\users\meli\desktop\progra 2020\colacircular\cola_circular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592716995 source:c:\users\meli\desktop\progra 2020\colacircular\cola_circular.c
+	"cola_circular.h"
+

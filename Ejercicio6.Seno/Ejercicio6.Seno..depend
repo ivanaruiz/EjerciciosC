@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1586467252 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio6.seno.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1586472852 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio6.seno\main.c
+	"seno.h"
+
+1586473835 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio6.seno\funciones.c
+	"seno.h"
+
+1586472795 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio6.seno\seno.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588366906 source:c:\users\meli\desktop\progra 2020\ejercicio6.seno\funciones.c
+	"seno.h"
+
+1588366906 c:\users\meli\desktop\progra 2020\ejercicio6.seno\seno.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588366958 source:c:\users\meli\desktop\progra 2020\ejercicio6.seno\main.c
+	"seno.h"
+

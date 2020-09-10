@@ -1,0 +1,16 @@
+En este examen, el ejercicio de C, 
+que es el que dice EAR3-Proyecto32,
+no lo tuve que entregar porque no me
+correspondía (ya había hecho correcto 
+el examen anterior).
+
+Sin embargo, lo hice a modo de 
+práctica para lo que fue la validación.
+El ejercicio está correcto.
+
+Por otro lado, los que tuve que entregar
+fueron los ejercicios de POO, 
+es decir, el de C++ que es el que dice
+POLIMORFISMO, y el de java, que es el que
+dice Garage.
+Ambos están correctos. 

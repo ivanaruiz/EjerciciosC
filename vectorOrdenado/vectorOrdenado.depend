@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586637871 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\vectorordenado\funciones.c
+	"vector.h"
+
+1586637871 c:\users\ra y ma.rayma-pc\desktop\progra 2020\vectorordenado\vector.h
+	<stdio.h>
+	<stdlib.h>
+
+1586637871 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\vectorordenado\main.c
+	"vector.h"
+

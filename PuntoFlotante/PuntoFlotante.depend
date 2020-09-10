@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588366458 source:c:\users\meli\desktop\progra 2020\puntoflotante\main.c
+	"main.h"
+
+1588358716 c:\users\meli\desktop\progra 2020\puntoflotante\main.h
+	<stdio.h>
+	<stdlib.h>
+

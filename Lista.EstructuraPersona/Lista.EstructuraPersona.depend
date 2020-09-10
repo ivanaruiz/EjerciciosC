@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1592417478 source:c:\users\meli\desktop\desktop\progra 2020\lista.estructurapersona\lista.c
+	"lista.h"
+
+1592417471 c:\users\meli\desktop\desktop\progra 2020\lista.estructurapersona\lista.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592417353 source:c:\users\meli\desktop\desktop\progra 2020\lista.estructurapersona\main.c
+	"lista.h"
+	"persona.h"
+
+1592417493 c:\users\meli\desktop\desktop\progra 2020\lista.estructurapersona\persona.h
+	"lista.h"
+
+1592417478 source:c:\users\meli\desktop\progra 2020\lista.estructurapersona\lista.c
+	"lista.h"
+
+1592417471 c:\users\meli\desktop\progra 2020\lista.estructurapersona\lista.h
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592417493 c:\users\meli\desktop\progra 2020\lista.estructurapersona\persona.h
+	"lista.h"
+

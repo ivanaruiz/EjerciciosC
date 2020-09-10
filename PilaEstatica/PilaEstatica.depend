@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590785490 source:c:\users\meli\desktop\progra 2020\pilaestatica\main.c
+	"pila_estatica.h"
+
+1590787646 c:\users\meli\desktop\progra 2020\pilaestatica\pila_estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596993358 source:c:\users\meli\desktop\progra 2020\pilaestatica\pila_estatica.c
+	"pila_estatica.h"
+

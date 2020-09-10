@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596751505 source:c:\users\meli\desktop\progra 2020\ordenamientogenericoxinsercion\ordanamiento_generico_metodo_insercion.c
+	"ordenamiento_generico_metodo_insercion.h"
+
+1596747714 c:\users\meli\desktop\progra 2020\ordenamientogenericoxinsercion\ordenamiento_generico_metodo_insercion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590030250 source:c:\users\meli\desktop\progra 2020\ordenamientogenericoxinsercion\main.c
+	"ordenamiento_generico_metodo_insercion.h"
+

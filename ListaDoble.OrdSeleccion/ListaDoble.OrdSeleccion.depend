@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598249424 source:c:\users\meli\desktop\repaso\listadoble.ordseleccion\main.c
+	"lista.h"
+
+1598249663 c:\users\meli\desktop\repaso\listadoble.ordseleccion\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

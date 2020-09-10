@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596669156 source:c:\users\meli\desktop\progra 2020\archivotxtabin\main.c
+	"alfajor.h"
+
+1596669067 source:c:\users\meli\desktop\progra 2020\archivotxtabin\funciones.c
+	"alfajor.h"
+
+1596669005 c:\users\meli\desktop\progra 2020\archivotxtabin\alfajor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

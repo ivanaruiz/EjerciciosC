@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1591497868 source:c:\users\meli\desktop\ea1-proyecto\funciones.c
+	"funciones.h"
+
+1591497063 c:\users\meli\desktop\ea1-proyecto\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1591497151 source:c:\users\meli\desktop\ea1-proyecto\main.c
+	"main.h"
+
+1591235946 c:\users\meli\desktop\ea1-proyecto\main.h
+	<stdio.h>
+	"funciones.h"
+
+1591497868 source:c:\users\meli\desktop\33329371_ruiz_ivana_anahi_victoria_ea_1\funciones.c
+	"funciones.h"
+
+1591497063 c:\users\meli\desktop\33329371_ruiz_ivana_anahi_victoria_ea_1\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1591497151 source:c:\users\meli\desktop\33329371_ruiz_ivana_anahi_victoria_ea_1\main.c
+	"main.h"
+
+1591235946 c:\users\meli\desktop\33329371_ruiz_ivana_anahi_victoria_ea_1\main.h
+	<stdio.h>
+	"funciones.h"
+
+1596956687 source:c:\users\meli\desktop\progra 2020\33329371_ruiz_ivana_anahi_victoria_ea_1\funciones.c
+	"funciones.h"
+
+1591497063 c:\users\meli\desktop\progra 2020\33329371_ruiz_ivana_anahi_victoria_ea_1\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1596948846 source:c:\users\meli\desktop\progra 2020\33329371_ruiz_ivana_anahi_victoria_ea_1\main.c
+	"main.h"
+
+1596948727 c:\users\meli\desktop\progra 2020\33329371_ruiz_ivana_anahi_victoria_ea_1\main.h
+	<stdio.h>
+	"funciones.h"
+

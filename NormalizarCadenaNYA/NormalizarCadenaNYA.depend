@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588267179 source:c:\users\meli\desktop\progra 2020\normalizarcadenanya\main.c
+	"normalizar.h"
+
+1588221674 c:\users\meli\desktop\progra 2020\normalizarcadenanya\normalizar.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1588222490 source:c:\users\meli\desktop\progra 2020\normalizarcadenanya\funciones.c
+	"normalizar.h"
+

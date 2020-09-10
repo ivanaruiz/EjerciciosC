@@ -1,0 +1,5 @@
+0001JORGITO            20.00
+0002GUAYMALLEN         05.00
+0003MILKA              25.00
+0004HAVANNA            40.00
+0005SUCHARD            30.00

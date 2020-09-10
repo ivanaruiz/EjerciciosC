@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1598283614 source:c:\users\meli\desktop\progra 2020\listadoble.ordseleccionv2\lista.c
+	"lista.h"
+
+1598283572 c:\users\meli\desktop\progra 2020\listadoble.ordseleccionv2\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598280755 source:c:\users\meli\desktop\progra 2020\listadoble.ordseleccionv2\main.c
+	"lista.h"
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1597884100 source:c:\users\meli\desktop\ear2-poo-tda\ear2-proyecto32bits\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1593556040 c:\users\meli\desktop\ear2-poo-tda\ear2-proyecto32bits\funciones.h
+	<stdio.h>
+
+1597883230 source:c:\users\meli\desktop\ear2-poo-tda\ear2-proyecto32bits\main.c
+	"main.h"
+
+1593556040 c:\users\meli\desktop\ear2-poo-tda\ear2-proyecto32bits\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1598667740 source:c:\users\meli\desktop\progra 2020\ear2-poo-tda\ear2-proyecto32bits\funciones.c
+	"funciones.h"
+	<stdlib.h>
+
+1593556040 c:\users\meli\desktop\progra 2020\ear2-poo-tda\ear2-proyecto32bits\funciones.h
+	<stdio.h>
+
+1597883230 source:c:\users\meli\desktop\progra 2020\ear2-poo-tda\ear2-proyecto32bits\main.c
+	"main.h"
+
+1593556040 c:\users\meli\desktop\progra 2020\ear2-poo-tda\ear2-proyecto32bits\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

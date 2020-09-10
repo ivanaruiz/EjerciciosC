@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1598136747 source:c:\users\meli\desktop\ea3-entregable\ea3-proyecto32\main.c
+	"main.h"
+
+1594076540 c:\users\meli\desktop\ea3-entregable\ea3-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1594076540 c:\users\meli\desktop\ea3-entregable\ea3-proyecto32\funciones.h
+	<stdio.h>
+
+1598136524 source:c:\users\meli\desktop\ea3-entregable\ea3-proyecto32\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdlib.h>
+

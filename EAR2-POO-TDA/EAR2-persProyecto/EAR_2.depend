@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1597541844 source:c:\users\meli\desktop\desktop\c++\ear2-persproyecto\main.cpp
+	"main.h"
+	<fstream>
+
+1593556040 c:\users\meli\desktop\desktop\c++\ear2-persproyecto\main.h
+	<iostream>
+	<sstream>
+	"pers.h"
+
+1598641589 c:\users\meli\desktop\desktop\c++\ear2-persproyecto\pers.h
+	<iostream>
+	<string>
+	"stdio.h"
+	"stdlib.h"
+	<cstdio>
+
+1598641816 source:c:\users\meli\desktop\desktop\c++\ear2-persproyecto\pers.cpp
+	<string.h>
+	<stdio.h>
+	"pers.h"
+

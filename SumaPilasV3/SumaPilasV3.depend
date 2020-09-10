@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596845099 source:c:\users\meli\desktop\progra 2020\sumapilasv3\pila.c
+	"pila.h"
+
+1596845362 c:\users\meli\desktop\progra 2020\sumapilasv3\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

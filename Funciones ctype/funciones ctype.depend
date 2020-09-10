@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1586989470 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\funciones ctype\main.c
+	"ctype.h"
+
+1586990546 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\funciones ctype\funciones.c
+	"ctype.h"
+
+1586992101 c:\users\ra y ma.rayma-pc\desktop\progra 2020\funciones ctype\ctype.h
+	<stdio.h>
+	<stdlib.h>
+
+1596156941 source:c:\users\meli\desktop\desktop\progra 2020\funciones ctype\funciones.c
+	"ctype.h"
+
+1596156891 c:\users\meli\desktop\desktop\progra 2020\funciones ctype\ctype.h
+	<stdio.h>
+	<stdlib.h>
+
+1596156716 source:c:\users\meli\desktop\desktop\progra 2020\funciones ctype\main.c
+	<stdlib.h>
+	<stdio.h>
+	"ctype.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589680732 source:c:\users\meli\desktop\progra 2020\archivotxtabinlongitudfija\main.c
+	"alumno.h"
+
+1589680732 c:\users\meli\desktop\progra 2020\archivotxtabinlongitudfija\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1589680628 source:c:\users\meli\desktop\progra 2020\archivotxtabinlongitudfija\funciones.c
+	"alumno.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588710915 source:c:\users\meli\desktop\progra 2020\matricesvarias\main.c
+	"matrices.h"
+
+1588711049 c:\users\meli\desktop\progra 2020\matricesvarias\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1588710847 source:c:\users\meli\desktop\progra 2020\matricesvarias\funciones.c
+	"matrices.h"
+
+1588711098 source:c:\users\meli\desktop\desktop\progra 2020\matricesvarias\funciones.c
+	"matrices.h"
+
+1588793280 c:\users\meli\desktop\desktop\progra 2020\matricesvarias\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1588710915 source:c:\users\meli\desktop\desktop\progra 2020\matricesvarias\main.c
+	"matrices.h"
+

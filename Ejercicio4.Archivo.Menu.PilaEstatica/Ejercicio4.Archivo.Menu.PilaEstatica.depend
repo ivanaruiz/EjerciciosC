@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1591239545 source:c:\users\meli\desktop\progra 2020\ejercicio4.archivo.menu.pilaestatica\main.c
+	"pila_estatica.h"
+	"persona.h"
+
+1591204999 c:\users\meli\desktop\progra 2020\ejercicio4.archivo.menu.pilaestatica\pila_estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591205317 source:c:\users\meli\desktop\progra 2020\ejercicio4.archivo.menu.pilaestatica\pila_estatica.c
+	"pila_estatica.h"
+
+1591221774 c:\users\meli\desktop\progra 2020\ejercicio4.archivo.menu.pilaestatica\persona.h
+	"pila_estatica.h"
+
+1591222703 source:c:\users\meli\desktop\progra 2020\ejercicio4.archivo.menu.pilaestatica\persona.c
+	"persona.h"
+

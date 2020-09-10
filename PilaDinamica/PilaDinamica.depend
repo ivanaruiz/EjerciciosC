@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1596826044 source:c:\users\meli\desktop\progra 2020\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila_dinamica.h"
+
+1590605822 c:\users\meli\desktop\progra 2020\piladinamica\pila_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590603187 source:c:\users\meli\desktop\progra 2020\piladinamica\pila_dinamica.c
+	"pila_dinamica.h"
+

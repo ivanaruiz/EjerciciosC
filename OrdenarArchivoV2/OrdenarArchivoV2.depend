@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589849047 source:c:\users\meli\desktop\progra 2020\ordenararchivov2\main.c
+	"alumno.h"
+
+1589849047 source:c:\users\meli\desktop\progra 2020\ordenararchivov2\funciones.c
+	"alumno.h"
+
+1589848996 c:\users\meli\desktop\progra 2020\ordenararchivov2\alumno.h
+	<stdio.h>
+	<stdlib.h>
+

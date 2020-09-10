@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592626571 source:c:\users\meli\desktop\desktop\progra 2020\listasimple.ordenar\lista.c
+	"lista.h"
+
+1592621785 c:\users\meli\desktop\desktop\progra 2020\listasimple.ordenar\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592625063 source:c:\users\meli\desktop\desktop\progra 2020\listasimple.ordenar\main.c
+	"lista.h"
+
+1598654546 source:c:\users\meli\desktop\progra 2020\listasimple.ordenar\lista.c
+	"lista.h"
+
+1598654126 c:\users\meli\desktop\progra 2020\listasimple.ordenar\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592625063 source:c:\users\meli\desktop\progra 2020\listasimple.ordenar\main.c
+	"lista.h"
+

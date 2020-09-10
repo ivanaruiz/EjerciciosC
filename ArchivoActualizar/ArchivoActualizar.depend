@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1589143096 source:c:\users\meli\desktop\progra 2020\archivoactualizar\main.c
+	"alumno.h"
+
+1589141328 c:\users\meli\desktop\progra 2020\archivoactualizar\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1589142905 source:c:\users\meli\desktop\progra 2020\archivoactualizar\funciones.c
+	"alumno.h"
+
+1596571118 source:c:\users\meli\desktop\desktop\progra 2020\archivoactualizar\funciones.c
+	"alumno.h"
+
+1596571065 c:\users\meli\desktop\desktop\progra 2020\archivoactualizar\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1596571306 source:c:\users\meli\desktop\desktop\progra 2020\archivoactualizar\main.c
+	"alumno.h"
+

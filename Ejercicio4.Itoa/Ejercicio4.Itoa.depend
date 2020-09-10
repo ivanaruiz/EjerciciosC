@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1588136501 source:c:\users\meli\desktop\ejercicio4.itoa\main.c
+	"itoa.h"
+
+1588136876 source:c:\users\meli\desktop\ejercicio4.itoa\funciones.c
+	"itoa.h"
+
+1588136876 c:\users\meli\desktop\ejercicio4.itoa\itoa.h
+	<stdio.h>
+	<stdlib.h>
+
+1588170650 source:c:\users\meli\desktop\progra 2020\ejercicio4.itoa\funciones.c
+	"itoa.h"
+
+1588170449 c:\users\meli\desktop\progra 2020\ejercicio4.itoa\itoa.h
+	<stdio.h>
+	<stdlib.h>
+
+1588170458 source:c:\users\meli\desktop\progra 2020\ejercicio4.itoa\main.c
+	"itoa.h"
+
+1596346904 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio4.itoa\funciones.c
+	"itoa.h"
+
+1596347000 c:\users\meli\desktop\desktop\progra 2020\ejercicio4.itoa\itoa.h
+	<stdio.h>
+	<stdlib.h>
+
+1588170458 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio4.itoa\main.c
+	"itoa.h"
+

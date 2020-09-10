@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1587439815 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\strcat.libreriastring\main.c
+	"strcat.h"
+
+1587439836 c:\users\ra y ma.rayma-pc\desktop\progra 2020\strcat.libreriastring\strcat.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1587439815 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\strcat.libreriastring\funcion.c
+	"strcat.h"
+
+1596149400 source:c:\users\meli\desktop\desktop\progra 2020\strcat.libreriastring\funcion.c
+	"strcat.h"
+
+1596257562 c:\users\meli\desktop\desktop\progra 2020\strcat.libreriastring\strcat.h
+	<stdio.h>
+	<stdlib.h>
+
+1596257680 source:c:\users\meli\desktop\desktop\progra 2020\strcat.libreriastring\main.c
+	"strcat.h"
+

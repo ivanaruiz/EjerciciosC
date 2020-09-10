@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1597948991 source:c:\users\meli\desktop\repaso\listasimple.proyectoalumnos\main.c
+	"lista.h"
+	"alumno.h"
+
+1597948984 c:\users\meli\desktop\repaso\listasimple.proyectoalumnos\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1597899961 c:\users\meli\desktop\repaso\listasimple.proyectoalumnos\alumno.h
+
+1597948022 source:c:\users\meli\desktop\repaso\listasimple.proyectoalumnos\lista.c
+	"lista.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1597897388 source:c:\users\meli\desktop\progra 2020\pila.ordenamientocondospilas\main.c
+	"pila.h"
+
+1597897460 c:\users\meli\desktop\progra 2020\pila.ordenamientocondospilas\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1597897436 source:c:\users\meli\desktop\progra 2020\pila.ordenamientocondospilas\pila.c
+	"pila.h"
+

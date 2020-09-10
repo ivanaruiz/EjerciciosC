@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1591906757 source:c:\users\meli\desktop\progra 2020\colaestatica\main.c
+	"cola_estatica.h"
+
+1591903749 c:\users\meli\desktop\progra 2020\colaestatica\cola_estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591907230 source:c:\users\meli\desktop\progra 2020\colaestatica\cola_estatica.c
+	"cola_estatica.h"
+

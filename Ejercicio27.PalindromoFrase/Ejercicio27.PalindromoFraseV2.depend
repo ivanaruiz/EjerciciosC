@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1587517650 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio27.palindromofrasev2\main.c
+	"palindromo.h"
+
+1587517650 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio27.palindromofrasev2\palindromo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587516904 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio27.palindromofrasev2\funciones.c
+	"palindromo.h"
+
+1588101868 source:c:\users\meli\desktop\progra 2020\ejercicio27.palindromofrasev2\funciones.c
+	"palindromo.h"
+
+1588101932 c:\users\meli\desktop\progra 2020\ejercicio27.palindromofrasev2\palindromo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1588101414 source:c:\users\meli\desktop\progra 2020\ejercicio27.palindromofrasev2\main.c
+	"palindromo.h"
+
+1596144594 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio27.palindromofrase\main.c
+	"palindromo.h"
+
+1588101932 c:\users\meli\desktop\desktop\progra 2020\ejercicio27.palindromofrase\palindromo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

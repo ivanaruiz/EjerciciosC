@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597703613 source:c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+
+1597702704 c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1597703718 source:c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1597702591 c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\figura.h
+	"FiguraInvalidaException.h"
+
+1597692668 c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<iostream>
+	<exception>
+
+1597702251 source:c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1597702707 c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1597702231 source:c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+
+1597702187 c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1597703736 source:c:\users\meli\desktop\desktop\c++\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+

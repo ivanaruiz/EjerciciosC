@@ -1,0 +1,6 @@
+0001LECHE              60.00
+0002HARINA             50.00
+0003ARROZ              40.00
+0004POLENTA            40.00
+0005LENTEJAS           30.00
+0006LEVADURA           08.00

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596772626 source:c:\users\meli\desktop\progra 2020\verificarsubcadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

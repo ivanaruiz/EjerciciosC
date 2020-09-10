@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587172472 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio24.vectoreliminarv2\funciones.c
+	"header.h"
+
+1587156269 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio24.vectoreliminarv2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1587156080 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio24.vectoreliminarv2\main.c
+	"header.h"
+
+1596080433 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio24.vectoreliminarv2\funciones.c
+	"header.h"
+
+1587156270 c:\users\meli\desktop\desktop\progra 2020\ejercicio24.vectoreliminarv2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1596080409 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio24.vectoreliminarv2\main.c
+	"header.h"
+

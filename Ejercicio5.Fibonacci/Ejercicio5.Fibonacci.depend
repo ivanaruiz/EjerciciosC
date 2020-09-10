@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586404374 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio5.fibonacci\main.c
+	"fibonacci.h"
+
+1586405257 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio5.fibonacci\funciones.c
+	"fibonacci.h"
+
+1586404374 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio5.fibonacci\fibonacci.h
+	<stdio.h>
+	<stdlib.h>
+

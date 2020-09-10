@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1594242652 source:c:\users\meli\desktop\ej2.ea3\lista.c
+	"lista.h"
+
+1594239706 c:\users\meli\desktop\ej2.ea3\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594175545 source:c:\users\meli\desktop\ej2.ea3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1594318916 source:d:\ea3\ej2.ea3 v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1594239708 d:\ea3\ej2.ea3 v2\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594319084 source:d:\ea3\ej2.ea3 v2\lista.c
+	"lista.h"
+
+1594317638 source:d:\ea3\ej2.ea3 v2\func.c
+	"lista.h"
+
+1594429049 source:c:\users\meli\desktop\ej2.ea3 v2 probar esta\func.c
+	"lista.h"
+
+1594447672 c:\users\meli\desktop\ej2.ea3 v2 probar esta\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594452631 source:c:\users\meli\desktop\ej2.ea3 v2 probar esta\lista.c
+	"lista.h"
+
+1594453228 source:c:\users\meli\desktop\ej2.ea3 v2 probar esta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1594429049 source:c:\users\meli\desktop\ej2.ea3 v2 nueva version\func.c
+	"lista.h"
+
+1594509447 c:\users\meli\desktop\ej2.ea3 v2 nueva version\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594519621 source:c:\users\meli\desktop\ej2.ea3 v2 nueva version\lista.c
+	"lista.h"
+
+1594518099 source:c:\users\meli\desktop\ej2.ea3 v2 nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1594429049 source:c:\users\meli\desktop\progra 2020\ej2.ea3 v2 nueva version\func.c
+	"lista.h"
+
+1598135266 c:\users\meli\desktop\progra 2020\ej2.ea3 v2 nueva version\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598135255 source:c:\users\meli\desktop\progra 2020\ej2.ea3 v2 nueva version\lista.c
+	"lista.h"
+
+1598134719 source:c:\users\meli\desktop\progra 2020\ej2.ea3 v2 nueva version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

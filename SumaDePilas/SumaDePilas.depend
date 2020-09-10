@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596844902 source:c:\users\meli\desktop\progra 2020\sumadepilas\main.c
+	"pila_dinamica.h"
+
+1591046591 c:\users\meli\desktop\progra 2020\sumadepilas\pila_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591046631 source:c:\users\meli\desktop\progra 2020\sumadepilas\pila_dinamica.c
+	"pila_dinamica.h"
+

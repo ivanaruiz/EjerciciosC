@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1591732659 source:c:\users\meli\desktop\progra 2020\coladinamica\cola_dinamica.c
+	"cola_dinamica.h"
+
+1591719697 c:\users\meli\desktop\progra 2020\coladinamica\cola_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591732659 source:c:\users\meli\desktop\progra 2020\coladinamica\main.c
+	"cola_dinamica.h"
+

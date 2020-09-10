@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1591738765 source:c:\users\meli\desktop\progra 2020\ejercicio11.simulacionbanco\cola_dinamica.c
+	"cola_dinamica.h"
+
+1591738743 c:\users\meli\desktop\progra 2020\ejercicio11.simulacionbanco\cola_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591834457 source:c:\users\meli\desktop\progra 2020\ejercicio11.simulacionbanco\main.c
+	"cola_dinamica.h"
+	"banco.h"
+
+1591833858 c:\users\meli\desktop\progra 2020\ejercicio11.simulacionbanco\banco.h
+

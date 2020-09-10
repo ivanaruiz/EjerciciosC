@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1593035810 source:c:\users\meli\desktop\ea2-entregable profe\ea2-proyecto32\funciones.c
+	"funciones.h"
+
+1593035810 c:\users\meli\desktop\ea2-entregable profe\ea2-proyecto32\funciones.h
+	<stdio.h>
+
+1593134362 source:c:\users\meli\desktop\ea2-entregable profe\ea2-proyecto32\main.c
+	"main.h"
+
+1593035810 c:\users\meli\desktop\ea2-entregable profe\ea2-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1598657600 source:c:\users\meli\desktop\progra 2020\ea2-proyecto32\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdlib.h>
+
+1597814226 c:\users\meli\desktop\progra 2020\ea2-proyecto32\funciones.h
+	<stdio.h>
+
+1597814233 source:c:\users\meli\desktop\progra 2020\ea2-proyecto32\main.c
+	"main.h"
+
+1593035810 c:\users\meli\desktop\progra 2020\ea2-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

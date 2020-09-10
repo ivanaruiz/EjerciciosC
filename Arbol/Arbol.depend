@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598562442 source:c:\users\meli\desktop\progra 2020\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1598562375 c:\users\meli\desktop\progra 2020\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1598562395 source:c:\users\meli\desktop\progra 2020\arbol\arbol.c
+	"arbol.h"
+

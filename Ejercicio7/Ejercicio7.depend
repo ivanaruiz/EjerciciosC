@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1586475848 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio7\main.c
+	"header.h"
+
+1586475808 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio7\funciones.c
+	"header.h"
+
+1586475808 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio7\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1586475810 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio7\funciones.c
+	"header.h"
+
+1596046901 c:\users\meli\desktop\desktop\progra 2020\ejercicio7\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1596046980 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio7\main.c
+	"header.h"
+

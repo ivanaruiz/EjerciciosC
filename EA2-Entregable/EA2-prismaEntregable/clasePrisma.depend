@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1593346744 source:c:\users\meli\desktop\ea2-entregable\ea2-prismaentregable\main.cpp
+	"main.h"
+
+1593035810 c:\users\meli\desktop\ea2-entregable\ea2-prismaentregable\main.h
+	<iostream>
+	"Prisma.h"
+
+1593345366 c:\users\meli\desktop\ea2-entregable\ea2-prismaentregable\prisma.h
+	<iostream>
+	<string>
+
+1593346205 source:c:\users\meli\desktop\ea2-entregable\ea2-prismaentregable\prisma.cpp
+	"Prisma.h"
+
+1597532234 source:c:\users\meli\desktop\progra 2020\ea2-entregable\ea2-prismaentregable\prisma.cpp
+	"Prisma.h"
+
+1597532378 c:\users\meli\desktop\progra 2020\ea2-entregable\ea2-prismaentregable\prisma.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596692915 source:c:\users\meli\desktop\progra 2020\vectorordenamientogenericoxburbujeo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596084178 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio25.vectorgenericoeliminar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1598328752 source:c:\users\meli\desktop\ear3-entregable resuelto\ear3-proyecto32\funciones.c
+	<string.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1598310862 c:\users\meli\desktop\ear3-entregable resuelto\ear3-proyecto32\funciones.h
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598310833 source:c:\users\meli\desktop\ear3-entregable resuelto\ear3-proyecto32\main.c
+	"main.h"
+
+1594761498 c:\users\meli\desktop\ear3-entregable resuelto\ear3-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596753395 source:c:\users\meli\desktop\progra 2020\ordengenericostructburbujeo\main.c
+	"ordenarstruct.h"
+
+1596753434 source:c:\users\meli\desktop\progra 2020\ordengenericostructburbujeo\funciones.c
+	"ordenarstruct.h"
+
+1590012413 c:\users\meli\desktop\progra 2020\ordengenericostructburbujeo\ordenarstruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

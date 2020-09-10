@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1587514114 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\invertircadenadecaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588102353 source:c:\users\meli\desktop\progra 2020\invertircadenadecaracteres\funciones.c
+	"invertircadena.h"
+
+1588102489 c:\users\meli\desktop\progra 2020\invertircadenadecaracteres\invertircadena.h
+	<stdio.h>
+	<stdlib.h>
+
+1588102697 source:c:\users\meli\desktop\progra 2020\invertircadenadecaracteres\main.c
+	"invertircadena.h"
+
+1596254037 source:c:\users\meli\desktop\desktop\progra 2020\invertircadenadecaracteres\main.c
+	"invertircadena.h"
+
+1596254012 c:\users\meli\desktop\desktop\progra 2020\invertircadenadecaracteres\invertircadena.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596082264 source:c:\users\meli\desktop\desktop\progra 2020\ejercicio22.vectorinsertarv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
